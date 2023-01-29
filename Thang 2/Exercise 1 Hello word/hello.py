@@ -1,0 +1,1 @@
+print ("hello japan. I am anh. nice to meet you.")
