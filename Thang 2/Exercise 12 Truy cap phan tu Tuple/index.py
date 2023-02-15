@@ -1,0 +1,8 @@
+day = ('monday', 'tuesday', 'wednesday' , 'thursday', 'friday', 'saturday' , 'sunday')
+print("danh sach tuple :")
+print(day)
+print("truy cap phan tu dau tien")
+print(day[0])
+print("truy cap phan tu cuoi cung thu 2")
+print(day[-2])
+print("khi truy cap vao cac phan tu cua tuple thi khai bao giong mang hoac list cua python")
